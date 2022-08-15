@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/ashton_codes" target="blank"><img src="https://img.shields.io/twitter/follow/ashton_codes?logo=twitter&style=for-the-badge" alt="ashton_codes" /></a> </p>
 
+- 🔭 I’m currently working on **Scrimba front end course**
+
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, React**
 
 - 📫 How to reach me **ashtonlittle8504@gmail.com**
