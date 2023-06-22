@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **CS50x and Frontend Masters**
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, React**
+- 🌱 Highly motivated front-end developer with a deep passion for  **HTML, CSS, JavaScript, React**
 
 - 📫 How to reach me **ashtonlittle8504@gmail.com**
 
