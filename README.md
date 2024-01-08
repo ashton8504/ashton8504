@@ -11,7 +11,7 @@
 
 - 🌱 Highly motivated front-end developer with a deep passion for  **HTML, CSS, JavaScript, React**
 
-- 📫 How to reach me **ashtonlittle8504@gmail.com**
+- 📫 How to reach me **ashtoncodes8504@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
