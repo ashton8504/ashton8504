@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ashton_codes" target="blank"><img src="https://img.shields.io/twitter/follow/ashton_codes?logo=twitter&style=for-the-badge" alt="ashton_codes" /></a> </p>
 
-- 🔭 Graduate from the **Tech Elevator Bootcamp**, September 2023 - December 2023
+- 🔭 Graduated from the **Tech Elevator Bootcamp**, September 2023 - December 2023
 
 - 🌱 Highly motivated front-end developer with a deep passion for  **HTML, CSS, JavaScript, React**
 
